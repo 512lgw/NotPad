@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list">
+        <item>Alpha Option 01</item>
+        <item>Beta Option 02</item>
+        <item>Charlie Option 03</item>
+    </string-array>
+    <string-array name="list_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="list_value2">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+    </string-array>
+    <color name="black">#000000</color>
+    <color name="blue">#1aafe6</color>
+    <color name="blue_green">#19eff9</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="green">#07fa23</color>
+    <color name="grey">#7c7676</color>
+    <color name="light_blue">#aacfda</color>
+    <color name="orange">#f88600</color>
+    <color name="pink">#f809fb</color>
+    <color name="purple">#a707fa</color>
+    <color name="red">#fc040a</color>
+    <color name="yellow">#f5f800</color>
+    <string name="app_name">NotePad</string>
+    <string name="black_title">黑色</string>
+    <string name="button_ok">OK</string>
+    <string name="error_message">Error loading note</string>
+    <string name="error_title">Error</string>
+    <string name="font10">10号字</string>
+    <string name="font16">16号字</string>
+    <string name="font20">20号字</string>
+    <string name="font_color">字体颜色</string>
+    <string name="font_size">字体大小</string>
+    <string name="live_folder_name">Notes</string>
+    <string name="menu_add">New note</string>
+    <string name="menu_copy">Copy</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_paste">Paste</string>
+    <string name="menu_revert">Revert changes</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_text_size">字体大小</string>
+    <string name="note_search_confirm">确定</string>
+    <string name="note_search_search">搜索</string>
+    <string name="nothing_to_save">There is nothing to save</string>
+    <string name="plain_item">普通菜单选项</string>
+    <string name="red_title">红色</string>
+    <string name="resolve_edit">Edit note</string>
+    <string name="resolve_title">Edit title</string>
+    <string name="text_title">Title:</string>
+    <string name="title_create">New note</string>
+    <string name="title_edit">Edit: %1$s</string>
+    <string name="title_edit_title">Note title:</string>
+    <string name="title_notes_list">Notes</string>
+</resources>

@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_app_notes.png.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable-ldpi\\app_notes.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_menu_revert.png.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_revert.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_menu_compose.png.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_compose.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\menu_list_options_menu.xml.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\menu\\list_options_menu.xml"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_app_notes.png.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable-hdpi\\app_notes.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_live_folder_notes.png.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable\\live_folder_notes.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_menu_delete.png.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_delete.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_menu_revert.png.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_revert.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\menu_editor_options_menu.xml.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\menu\\editor_options_menu.xml"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_menu_compose.png.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_compose.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\layout_note_editor.xml.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\layout\\note_editor.xml"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_search.png.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_menu_edit.png.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_edit.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_menu_save.png.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_save.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_app_notes.png.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable\\app_notes.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_search.jpg.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable-ldpi\\search.jpg"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\layout_title_editor.xml.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\layout\\title_editor.xml"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\layout_noteslist_item.xml.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\layout\\noteslist_item.xml"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_menu_save.png.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_save.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\layout_note_search.xml.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\layout\\note_search.xml"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_menu_delete.png.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\menu_list_context_menu.xml.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\menu\\list_context_menu.xml"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_live_folder_notes.png.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable-hdpi\\live_folder_notes.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_menu_edit.png.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_edit.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_live_folder_notes.png.flat",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable-ldpi\\live_folder_notes.png"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_menu_revert.png",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_revert.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_menu_save.png",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_save.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_menu_compose.png",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_compose.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_menu_edit.png",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_edit.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_menu_delete.png",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_delete.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\live_folder_notes.png",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable\\live_folder_notes.png"
+    },
+    {
+        "merged": "D:\\AS product\\NotePad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\app_notes.png",
+        "source": "D:\\AS product\\NotePad-master\\app\\src\\main\\res\\drawable\\app_notes.png"
+    }
+]

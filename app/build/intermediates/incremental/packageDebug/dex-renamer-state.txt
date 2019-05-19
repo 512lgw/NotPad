@@ -1,0 +1,7 @@
+#Fri May 18 00:03:24 CST 2018
+base.0=D\:\\AS product\\NotePad-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4dac1b16d9a6a93f41cfee3e4e0a51ceede782fe
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\AS product\\NotePad-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_120997782a52bf6ef64bffabdd7618e6f478710c\\classes.dex
+base.1=D\:\\AS product\\NotePad-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_120997782a52bf6ef64bffabdd7618e6f478710c
+file.0=D\:\\AS product\\NotePad-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4dac1b16d9a6a93f41cfee3e4e0a51ceede782fe\\classes.dex
